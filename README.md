@@ -1,2 +1,2 @@
 # ppconverter
-Converts images generated with the AutoCAD-Plugin PhoToPlan into GeoTIFFs
+Plugin for QGIS. Converts images generated with the AutoCAD-Plugin PhoToPlan into GeoTIFFs
