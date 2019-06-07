@@ -192,10 +192,10 @@
      <property name="text">
       <string>This plugin is supposed to convert images created within the AutoCAD©-Plugin PhoToPlan©. The user has to specify the locations of the original image and where to save the newly created GeoTiff. The plugin checks for the presence of the accompanying ppb-file and automatically determines if the image stems from a planum or a profile. In the latter case, the X- and Y-values are ignored and the origin of the GeoTIFF is set to &quot;0/Z-value&quot;. Finally, the plugin opens the new file in QGIS. The user then has to choose the correct projection, as this cannot be determined from the ppb-file.
 
-Designed by Nils Müller-Scheeßel in collaboration with Knut Rassmann for 
-the Roman-Germanic Commission of the German Archaeological Institute
-www.dainst.de
-nils.mueller-scheessel@dainst.de</string>
+Designed by Nils Müller-Scheeßel in collaboration with Knut Rassmann for the 
+Roman-Germanic Commission of the German Archaeological Institute
+
+www.dainst.org</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
